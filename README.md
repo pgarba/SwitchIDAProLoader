@@ -11,3 +11,4 @@ Copy Switch64.l64 to "IDA 6.95\loaders"
 
 v0.1 Initial release
 v0.2 Fixed base address (String refs. work now)
+v0.3 Fixed segment offsets

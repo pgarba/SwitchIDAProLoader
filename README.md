@@ -14,3 +14,8 @@ v0.1 Initial release
 v0.2 Fixed base address(String refs. work now)
 
 v0.3 Fixed segment offsets
+
+v0.4 Support for dumped MOD0 files 
+		- Dump the sections (RX, R, RW) and merge them into one file to use it in IDA
+	 Parsing of exported symbols
+	 Parsing of imported symbols (Not sure if it's right)

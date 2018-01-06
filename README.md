@@ -23,3 +23,8 @@ v0.4 Support for dumped MOD0 files
 
       Parsing of imported symbols (Not sure if it's right)
      
+
+
+v0.7 Support for NSO files
+	- Improved parsing of symbols
+	- Small fixes

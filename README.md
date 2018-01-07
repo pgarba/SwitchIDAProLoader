@@ -33,3 +33,6 @@ v0.7 Support for NSO files
 	Small fixes
 	
 	Support for AArch64 decompiler
+
+
+v0.8 Fix BSS and EH_Frame 

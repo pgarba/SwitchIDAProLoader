@@ -41,3 +41,7 @@ v0.8 Fix BSS and EH_Frame
 v0.9 Detect broken dynamic entries like found in current homebrew NROs (No symbols!)
 	 
 	 Support parsing of symbols for NRO files
+
+v0.10 Fixed import name recovering
+
+      Clean up

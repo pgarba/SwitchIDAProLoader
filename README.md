@@ -45,3 +45,8 @@ v0.9 Detect broken dynamic entries like found in current homebrew NROs (No symbo
 v0.10 Fixed import name recovering
 
       Clean up
+
+
+v0.11 Fixed a bug in NRO symbol parsing
+
+      Dumped system NROs should work now

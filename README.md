@@ -50,3 +50,14 @@ v0.10 Fixed import name recovering
 v0.11 Fixed a bug in NRO symbol parsing
 
       Dumped system NROs should work now
+
+
+ v0.20 Rewrote the whole Symbol parsing based on nxo64.py (thx!)
+
+      ARM 32 support (Titles like Mario Markt should work now)
+
+      KIP file support (No symbols for now)
+
+      Stability improvments
+
+      A lot of code refactoring ...

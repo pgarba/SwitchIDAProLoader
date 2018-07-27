@@ -61,3 +61,9 @@ v0.11 Fixed a bug in NRO symbol parsing
       Stability improvments
 
       A lot of code refactoring ...
+
+ v0.21 
+
+       Symbol parsing for kip1 files
+
+       More error checking if MOD0 is missing

@@ -67,3 +67,13 @@ v0.11 Fixed a bug in NRO symbol parsing
        Symbol parsing for kip1 files
 
        More error checking if MOD0 is missing
+
+  v0.22
+
+       Support uncompressed KIP and NSO files (Like the one from hactool)
+
+       Try to detect corrupt BSS entries
+
+       Fixed a bug in NRO file dectection
+
+       Support for Team Xecuter NSO files

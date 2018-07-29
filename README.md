@@ -1,5 +1,9 @@
 # Nintendo Switch Binary loader for IDA Pro 7.0 (NRO, MOD, NSO)
 
+
+![](LoaderOutput.gif)
+
+
 This is a loader for the NRO Nintendo Switch binaries
 
 It's still work in progress but it looks good so far ;)

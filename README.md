@@ -72,7 +72,7 @@ v0.11 Fixed a bug in NRO symbol parsing
 
        More error checking if MOD0 is missing
 
-  v0.22
+ v0.22
 
        Support uncompressed KIP and NSO files (Like the one from hactool)
 
@@ -81,3 +81,7 @@ v0.11 Fixed a bug in NRO symbol parsing
        Fixed a bug in NRO file dectection
 
        Support for Team Xecuter NSO files
+
+ v0.23
+ 
+      Compiled with IDAPro SDK 7.6

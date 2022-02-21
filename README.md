@@ -1,4 +1,4 @@
-# Nintendo Switch Binary loader for IDA Pro 7.0 (NRO, MOD, NSO)
+# Nintendo Switch Binary loader for IDA Pro 7.XX (NRO, MOD, NSO)
 
 
 ![](LoaderOutput.gif)
@@ -83,5 +83,5 @@ v0.11 Fixed a bug in NRO symbol parsing
        Support for Team Xecuter NSO files
 
  v0.23
- 
+
       Compiled with IDAPro SDK 7.6

@@ -1,4 +1,4 @@
-# Nintendo Switch Binary loader for IDA Pro 7.XX/8.XX (NRO, MOD, NSO)
+# Nintendo Switch Binary loader for IDA Pro 7.XX/8.XX/9.XX (NRO, MOD, NSO)
 
 
 ![](LoaderOutput.gif)

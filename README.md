@@ -92,3 +92,8 @@ v0.11 Fixed a bug in NRO symbol parsing
       Fixed segement creation bug on newer IDA Pro versions
       Added marking of default code and data segment
       Added entrypoint marking for nso files
+
+ v0.25
+
+      Compiled with IDAPro SDK 9.0
+
